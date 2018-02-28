@@ -20,4 +20,4 @@ docker-compose up -d
 
 ## questions/comments?
 
-Email (openshiftninja@gmail.com)[mailto:openshiftninja@gmail.com]
+Email [openshiftninja@gmail.com](mailto:openshiftninja@gmail.com)
